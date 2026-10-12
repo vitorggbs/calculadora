@@ -9,5 +9,4 @@ Uma calculadora simples para somar, subtrair, multiplicar e dividir dois número
 
 Abra o terminal nesta pasta e rode:
 
-bash
 python main.py
